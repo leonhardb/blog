@@ -1,5 +1,5 @@
 +++
-title = "Digital Gold"
+title = "Digitales Gold"
 tags = [
     "Statement",
 ]
@@ -10,7 +10,7 @@ categories = [
 ]
 +++
 
-Satoshi’s original vision for Bitcoin was revolutionary. A global currency that existed above
+Satoshi’s originale Vision für Bitcoin war revolutionär. A global currency that existed above
 nations and out of the reach of trusts and inflation, Bitcoin should have rocked the
 financial world to its core. But the vision failed. Instead of ushering in a new era of
 decentralization, Bitcoin itself became centralized. Power concentrated into three major
@@ -37,10 +37,10 @@ transform the financial world for everyone across the globe.
 
 ![Skycoin transaction speed comparison chart](https://i.imgur.com/i0KNIIr.jpg)
 
-## Digital Gold: No Inflation
+## Digitales Gold: Keine Inflation
 
-Satoshi designed Bitcoin to protect wealth from inflation. Bitcoin is an immutable currency,
-with a finite supply capped at 21 million. By capping the number of Bitcoins that can exist,
+Satoshi hat Bitcoin erstellt um  Reichtum von Inflation zu beschützen. Bitcoin ist eine unveränderliche Währung,
+mit einem endlichen Vorat von 21 Million. By capping the number of Bitcoins that can exist,
 Satoshi hoped to create digital gold: he wanted to provide a premium investment that could
 return value over the years.
 

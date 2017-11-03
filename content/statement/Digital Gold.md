@@ -10,8 +10,7 @@ categories = [
 ]
 +++
 
-Satoshi’s originale Vision für Bitcoin war revolutionär. A global currency that existed above
-nations and out of the reach of trusts and inflation, Bitcoin should have rocked the
+Satoshi’s originale Vision für Bitcoin war revolutionär. Eine globale Währung die über Nationen and out of the reach of trusts and inflation, Bitcoin should have rocked the
 financial world to its core. But the vision failed. Instead of ushering in a new era of
 decentralization, Bitcoin itself became centralized. Power concentrated into three major
 mining pools. Transaction speed slowed to hours. Fees skyrocketed to their current $40 level.
